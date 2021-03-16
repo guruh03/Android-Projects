@@ -1,4 +1,4 @@
-Profile Activity 
+ 
 package com.example.mobilestore; 
 import android.content.Intent; 
 import android.net.Uri; 
